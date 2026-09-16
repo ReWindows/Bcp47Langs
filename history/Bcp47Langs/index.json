@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Bcp47Langs.dll",
+  "latest": "4213214751-5DBC5D146317FFC632245FB650DDAC78-1",
+  "builds": [
+    {
+      "key": "4213214751-5DBC5D146317FFC632245FB650DDAC78-1",
+      "timestamp": "4213214751",
+      "pdb_guid": "5DBC5D146317FFC632245FB650DDAC78",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/4213214751-5DBC5D146317FFC632245FB650DDAC78-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
